@@ -3,6 +3,8 @@
 This is the github repository for an anomaly detection approach utilising DDPMs with simplex noise implemented in
 pytorch.
 
+Cite our paper : Self-Supervised Diffusion Model for Anomaly Segmentation in Medical Imaging accepted in PReMI 2023 at ISI Kolkata and will be appear at Springer LNCS; authored by Komal Kumar, Snehashis Chakraborty, Sudipta Roy*
+
 The code was written by [Komal Kumar](https://github.com/MAXNORM8650) and is based on
 the [Guided Diffusion Repo](https://github.com/Julian-Wyatt/AnoDDPM), [Predictive Convolutional Attentive block repo](https://github.com/ristea/sspcab), and [guided-diffusion repo](https://github.com/openai/guided-diffusion).
 #	Simplex Diffusion and Selective Denoising (SD)Square
