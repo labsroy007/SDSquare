@@ -3,7 +3,7 @@
 This is the github repository for an anomaly detection approach utilising DDPMs with simplex noise implemented in
 pytorch.
 
-Cite our paper : Self-Supervised Diffusion Model for Anomaly Segmentation in Medical Imaging accepted in PReMI 2023 at ISI Kolkata and will be appear at Springer LNCS; authored by Komal Kumar, Snehashis Chakraborty, Sudipta Roy*
+Cite our paper : Kumar, K., Chakraborty, S., Roy, S. (2023). Self-supervised Diffusion Model for Anomaly Segmentation in Medical Imaging. In: Maji, P., Huang, T., Pal, N.R., Chaudhury, S., De, R.K. (eds) Pattern Recognition and Machine Intelligence. PReMI 2023. Lecture Notes in Computer Science, vol 14301. Springer, Cham. https://doi.org/10.1007/978-3-031-45170-6_37
 
 The code was written by [Komal Kumar](https://github.com/MAXNORM8650) and is based on
 the [Guided Diffusion Repo](https://github.com/Julian-Wyatt/AnoDDPM), [Predictive Convolutional Attentive block repo](https://github.com/ristea/sspcab), and [guided-diffusion repo](https://github.com/openai/guided-diffusion).
@@ -70,3 +70,6 @@ BRATS2021 and Pneumonia X-Ray both publicly available datasets. Please refer to 
   "noise_fn": "simplex",
   "dataset": "pneumonia"
 }
+
+
+Cite : Kumar, K., Chakraborty, S., Roy, S. (2023). Self-supervised Diffusion Model for Anomaly Segmentation in Medical Imaging. In: Maji, P., Huang, T., Pal, N.R., Chaudhury, S., De, R.K. (eds) Pattern Recognition and Machine Intelligence. PReMI 2023. Lecture Notes in Computer Science, vol 14301. Springer, Cham. https://doi.org/10.1007/978-3-031-45170-6_37
